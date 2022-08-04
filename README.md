@@ -33,4 +33,4 @@
 ###### To run: <br/>
           python .\manage.py runserver <br/>
 
->* Your project will run successfully. <br/>
+>* You're ready to go. <br/>
