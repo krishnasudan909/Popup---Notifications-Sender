@@ -34,7 +34,3 @@
           python .\manage.py runserver <br/>
 
 >* Your project will run successfully. <br/>
-
-## Poster of the project
-
-![Push Notifications Poster](https://user-images.githubusercontent.com/74672126/182891525-35c8474e-5b6b-4443-a7b2-aa5686488d9b.jpeg)
